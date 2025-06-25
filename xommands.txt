@@ -1,0 +1,6 @@
+cd C:\Users\Mano\OneDrive\Desktop\ML Code
+
+
+python add_pose.py
+
+python main.py
